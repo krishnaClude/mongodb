@@ -1,0 +1,13 @@
+mongodb project - 
+
+	test project is running 
+	sign up/sign in user 
+	create category (protected)
+	update category (protected)
+	delete category (protected)
+	create product (protected)
+	update product (protected)
+	delete product (protected)
+	list category (protected)
+	list product(protected)
+	
